@@ -145,7 +145,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
-| [The Stall](https://the-stall.intuitek.ai) | 201 pay-per-call x402 MCP capabilities: stocks, options, DeFi yields, macro indicators, crypto, blockchain analytics, wallet intelligence | Pay-per-call (x402, USDC) | N/A |
+| [The Stall](https://the-stall.intuitek.ai) | 207 pay-per-call x402 MCP capabilities across stocks, options, DeFi, crypto, macro intelligence, and dealer GEX analysis (v4.62.0) | Pay-per-call (x402, USDC) | N/A |
 | [OpenBB Platform](https://github.com/OpenBB-finance/OpenBB) | Comprehensive financial data platform | Free + Paid | ![GitHub stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=flat) |
 | [TrendRadar](https://github.com/sansan0/TrendRadar) | AI sentiment monitoring, hot topic tracking | Free | ![GitHub stars](https://img.shields.io/github/stars/sansan0/TrendRadar?style=flat) |
 | [Finbrain MCP](https://github.com/ahmetsbilgin/finbrain-mcp) | Institutional-grade alternative data | Requires API key | ![GitHub stars](https://img.shields.io/github/stars/ahmetsbilgin/finbrain-mcp?style=flat) |
