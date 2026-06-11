@@ -173,6 +173,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | Name | Description | Pricing | Stars | Contributor |
 |------|-------------|---------|-------|-------------|
 | [OpenBB MCP](https://github.com/OpenBB-finance/OpenBB) | OpenBB financial platform | Free | ![stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=flat) | *[@MagnusS0](https://github.com/MagnusS0)* |
+| [The Stall](https://github.com/thebrierfox/the-stall) | 209 pay-per-call financial data tools via MCP and x402. US/EU/AU/JP/KR equities, crypto/DeFi, global news (GDELT), SEC/EDGAR filings, congressional trades, options flow (GEX). USDC on Base, no API keys. | Paid (x402) | ![stars](https://img.shields.io/github/stars/thebrierfox/the-stall?style=flat) | *[@KyleMillion](https://github.com/KyleMillion)* |
 
 ---
 
